@@ -2,3 +2,8 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+.btn {
+    margin-bottom: 60px;
+    padding: 10px 40px;
+    font-weight: bold;
+}
