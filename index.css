@@ -30,6 +30,18 @@ body {
 .para1 {
     margin-left: 35px;
 }
+.float {
+    border-left: #3F87F5;
+    box-shadow: 5px 15px 5px rgba(128, 128, 128, 0.267);
+    padding: 5px 5px;
+}
+.icon {
+    color: #3F87F5;
+    margin-right: 5px;
+}
+.cross {
+    font-size: 10px;
+}
 #pack {
     text-align: center;
     margin-top: 100px;
@@ -47,7 +59,7 @@ body {
     border-radius: 26px;
     padding: 30px;
     text-align: left;
-    box-shadow: 20px 100px 30px rgb(128, 128, 128);
+    box-shadow: 20px 30px 30px rgb(128, 128, 128);
     position: relative;
 }
 .card-title {
