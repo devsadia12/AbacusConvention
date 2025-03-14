@@ -7,3 +7,26 @@ body {
     padding: 10px 40px;
     font-weight: bold;
 }
+.parent2 {
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+#par {
+    font-size: 38px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+}
+#par1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #6C6C6C;
+    font-family: "Poppins", sans-serif;
+}
+.btn {
+    padding: 10px 24px;
+    font-size: 16px;
+}
+.para1 {
+    margin-left: 35px;
+}
